@@ -1,0 +1,11 @@
+.terraform/
+<<<<<<< HEAD
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+.crash
+*.log
+=======
+.terraform/
+>>>>>>> 13def6b (Initial commit: added terraform project and .gitignore)
+.terraform/
